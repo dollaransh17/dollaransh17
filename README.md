@@ -10,6 +10,11 @@
   </a>
   <img src="https://img.shields.io/github/stars/dollaransh17?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge" alt="GitHub Stars" />
 </p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/anshul-780aba293/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"/>
+  </a>
+</p>
 
 ---
 
@@ -135,3 +140,4 @@ public class AnshulVaibhav {
         me.currentStatus();
     }
 }
+
