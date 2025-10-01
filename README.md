@@ -1,39 +1,22 @@
 <h1 align="center">🚀 Anshul_Vaibhav</h1>
 
-<p align="center">
-
+<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1200&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+CSE%28Cyber%29;Node.js+%E2%80%A2+Express.js+%E2%80%A2+SQL+%E2%80%A2+Flowise;Exploring+AI,+coding,+and+anime+adventures" alt="Typing SVG" />
+</div>
 
-</p>
-
-
-
-
-<p align="center">
-
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=dollaransh17&style=for-the-badge" alt="Profile Views" />
-
   <a href="https://github.com/dollaransh17?tab=followers">
-
     <img src="https://img.shields.io/github/followers/dollaransh17?logo=github&style=for-the-badge" alt="GitHub Followers" />
-
   </a>
-
   <img src="https://img.shields.io/github/stars/dollaransh17?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge" alt="GitHub Stars" />
+</div>
 
-</p>
-
-<p align="center">
-
-  <a href="https://www.linkedin.com/in/anshul-780aba293/" target="_blank">
-
+<div align="center">
+  <a href="https://www.linkedin.com/in/anshul-780aba293/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"/>
-
   </a>
-
-</p>
-
-
+</div>
 
 
 ---
