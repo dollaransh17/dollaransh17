@@ -3,6 +3,12 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1200&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+CSE%28Cyber%29;Node.js+%E2%80%A2+Express.js+%E2%80%A2+SQL+%E2%80%A2+Flowise;Exploring+AI,+coding,+and+anime+adventures" alt="Typing SVG" />
 </div>
+<div align="center">
+  <a href="https://holopin.io/@dollaransh17#badges">
+    <img src="https://holopin.me/dollaransh17" alt="@dollaransh17's Holopin badgeboard" />
+  </a>
+</div>
+
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=dollaransh17&style=for-the-badge" alt="Profile Views" />
