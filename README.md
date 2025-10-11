@@ -66,7 +66,7 @@ public class AnshulVaibhav {
 
         this.education = "B.E. CSE (Cybersecurity) • 3rd Year";
 
-        this.college = "Ramaiah Institute of Technology";
+       # this.college = "Ramaiah Institute of Technology";
 
         this.gpa = 9.32;
 
