@@ -8,6 +8,11 @@
     <img src="https://holopin.me/dollaransh17" alt="@dollaransh17's Holopin badgeboard" />
   </a>
 </div>
+<div align="center">
+  <a href="https://www.linkedin.com/in/anshul-780aba293/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"/>
+  </a>
+</div>
 
 
 <div align="center">
@@ -62,8 +67,9 @@ public class AnshulVaibhav {
 
         this.education = "B.E. CSE (Cybersecurity) • 2nd Year";
 
-    
+        this.college = "Ramaiah Instituite of Technology"
 
+    
         this.gpa = 9.32;
 
         this.currentFocus = new String[] {
