@@ -154,20 +154,15 @@ Cybersecurity:
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=dollaransh17&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img width="49%" src="https://streak-stats.demolab.com?user=dollaransh17&theme=tokyonight&hide_border=true"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=dollaransh17&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+  <img height="170" src="https://streak-stats.demolab.com?user=dollaransh17&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dollaransh17&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dollaransh17&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -198,6 +193,7 @@ Cybersecurity:
 
 </p>
 
+---
 ---
 
 # 🎯 Current Focus
