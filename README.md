@@ -5,12 +5,12 @@
 <h1 align="center">⚡ Full Stack Developer • AI Builder • Cloud Enthusiast • Cybersecurity Student</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+Scalable+Backend+Systems;Developing+AI-Powered+Applications;Exploring+Cloud+%26+Cybersecurity;Hackathon+Enthusiast;Always+Learning+Something+New"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+Scalable+Backend+Systems;Developing+AI-Powered+Applications;Exploring+Cloud+%26+Cybersecurity;Hackathon+Enthusiast;Always+Learning+Something+New"/>
 </p>
 
 <p align="center">
   <a href="https://holopin.io/@dollaransh17">
-    <img src="https://holopin.me/dollaransh17" alt="Holopin Badges"/>
+    <img src="https://holopin.io/api/user/board?user=dollaransh17" alt="Holopin Badges"/>
   </a>
 </p>
 
@@ -157,12 +157,12 @@ Cybersecurity:
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=dollaransh17&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-  <img height="170" src="https://streak-stats.demolab.com?user=dollaransh17&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-stats-extended.vercel.app/api?username=dollaransh17&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+  <img height="170" src="https://streak-stats.demolab.com/?user=dollaransh17&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dollaransh17&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=dollaransh17&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -236,7 +236,7 @@ Cybersecurity:
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:ab6113013@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
