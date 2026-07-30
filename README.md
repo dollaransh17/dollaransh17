@@ -153,18 +153,15 @@ Cybersecurity:
 ```
 
 ---
-
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-stats-extended.vercel.app/api?username=dollaransh17&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-  <img height="170" src="https://streak-stats.demolab.com/?user=dollaransh17&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-stats-extended.vercel.app/api?username=dollaransh17&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
   <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=dollaransh17&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
-
 ---
 
 # 📈 Contribution Graph
