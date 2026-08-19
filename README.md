@@ -2,10 +2,10 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0D1117,25:1F6FEB,50:00C2FF,75:7C3AED,100:0D1117&text=ANSHUL%20VAIBHAV&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 </p>
 
-<h1 align="center">⚡ Full Stack Developer • AI Builder • Cloud Enthusiast • Cybersecurity Student</h1>
+<h1 align="center">⚡ Full Stack Developer • AI Builder • 2× AWS Certified • Cybersecurity Student</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+Scalable+Backend+Systems;Developing+AI-Powered+Applications;Exploring+Cloud+%26+Cybersecurity;Hackathon+Enthusiast;Always+Learning+Something+New"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+Scalable+Backend+Systems;Developing+AI-Powered+Applications;2x+AWS+Certified+%7C+Cloud+%26+AI;Flipkart+GRiD+8.0+National+Semifinalist;Hackathon+Enthusiast;Always+Learning+Something+New"/>
 </p>
 
 <p align="center">
@@ -33,6 +33,10 @@ Education   :: B.E. Computer Science (Cybersecurity)
 College     :: Ramaiah Institute of Technology
 Location    :: India
 
+Cloud       :: AWS
+AI          :: LLMs • RAG • Agentic AI
+Certified   :: AWS Cloud Practitioner • AWS AI Practitioner
+
 Mission     :: Build secure, scalable and intelligent software.
 
 Status      :: Learning • Building • Shipping 🚀
@@ -52,6 +56,8 @@ Status      :: Learning • Building • Shipping 🚀
 [✓] AI Applications
 
 [✓] AWS Cloud
+
+[✓] AWS AI Services
 
 [✓] Docker
 
@@ -112,6 +118,26 @@ System Status : ONLINE
 
 ---
 
+# ☁️ AWS Certifications
+
+<p>
+
+<img src="https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/AWS%20Certified-AI%20Practitioner-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
+
+</p>
+
+```text
+🏅 2× AWS Certified
+
+☁️ AWS Certified Cloud Practitioner
+
+🤖 AWS Certified AI Practitioner
+```
+
+---
+
 # 🚀 Currently Learning
 
 ```yaml
@@ -120,7 +146,7 @@ Backend:
   - Distributed Systems
 
 Cloud:
-  - AWS
+  - AWS Architecture
   - Kubernetes
 
 Artificial Intelligence:
@@ -141,18 +167,27 @@ Cybersecurity:
 ```text
 🏅 Multiple Hackathon Winner
 
-🤖 AI Application Developer
+🛒 Flipkart GRiD 8.0 — National Semifinalist
 
-☁️ AWS Cloud Learner
+☁️ 2× AWS Certified
+
+🤖 AWS Certified AI Practitioner
+
+☁️ AWS Certified Cloud Practitioner
+
+🤖 AI Application Developer
 
 💻 Backend Engineering
 
 🔐 Cybersecurity Student
 
+🌍 Open Source Contributor
+
 🚀 Always building practical software
 ```
 
 ---
+
 ## 📊 GitHub Analytics
 
 <p align="center">
@@ -162,6 +197,7 @@ Cybersecurity:
 <p align="center">
   <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=dollaransh17&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
+
 ---
 
 # 📈 Contribution Graph
@@ -191,7 +227,6 @@ Cybersecurity:
 </p>
 
 ---
----
 
 # 🎯 Current Focus
 
@@ -201,6 +236,8 @@ Cybersecurity:
 🤖 Agentic AI
 
 🧠 Large Language Models
+
+🔗 RAG & MCP
 
 💻 Backend Engineering
 
