@@ -147,7 +147,6 @@ Backend:
 
 Cloud:
   - AWS Architecture
-  - Kubernetes
 
 Artificial Intelligence:
   - Agentic AI
